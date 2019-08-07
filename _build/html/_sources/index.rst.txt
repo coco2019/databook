@@ -5,7 +5,7 @@
 
 Contents:
 
-.. toctree:
+.. toctree::
 
    python/python
    php/php
